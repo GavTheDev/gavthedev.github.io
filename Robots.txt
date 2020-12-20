@@ -1,9 +1,0 @@
-User-Agent: *
-Disallow: 
-Disallow: /index3.html
-Disallow: /index2.html
-Disallow: /index31.html
-Disallow: /login.html
-Allow: /index.html/
-
-Sitemap: https://encrypthax.com/sitemap.xml
